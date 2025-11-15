@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mathematics",
+    "category": "STEM",
+    "description": "Algebra, Calculus, Geometry, Statistics, and more",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=math&backgroundColor=4F46E5"
+  },
+  {
+    "name": "Physics",
+    "category": "STEM",
+    "description": "Mechanics, Thermodynamics, Electromagnetism, Quantum Physics",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=physics&backgroundColor=10B981"
+  },
+  {
+    "name": "Chemistry",
+    "category": "STEM",
+    "description": "Organic, Inorganic, Physical Chemistry, Biochemistry",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=chemistry&backgroundColor=F59E0B"
+  },
+  {
+    "name": "Biology",
+    "category": "STEM",
+    "description": "Cell Biology, Genetics, Ecology, Human Anatomy",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=biology&backgroundColor=EF4444"
+  },
+  {
+    "name": "Computer Science",
+    "category": "STEM",
+    "description": "Programming, Data Structures, Algorithms, Web Development",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=cs&backgroundColor=8B5CF6"
+  },
+  {
+    "name": "English Literature",
+    "category": "Languages",
+    "description": "Poetry, Prose, Drama, Literary Analysis",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=english&backgroundColor=EC4899"
+  },
+  {
+    "name": "History",
+    "category": "Social Sciences",
+    "description": "World History, Ancient Civilizations, Modern History",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=history&backgroundColor=14B8A6"
+  },
+  {
+    "name": "Economics",
+    "category": "Social Sciences",
+    "description": "Microeconomics, Macroeconomics, International Trade",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=economics&backgroundColor=F97316"
+  },
+  {
+    "name": "Psychology",
+    "category": "Social Sciences",
+    "description": "Cognitive Psychology, Behavioral Psychology, Clinical Psychology",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=psychology&backgroundColor=06B6D4"
+  },
+  {
+    "name": "Art & Design",
+    "category": "Arts",
+    "description": "Drawing, Painting, Graphic Design, UI/UX Design",
+    "icon_url": "https://api.dicebear.com/7.x/shapes/svg?seed=art&backgroundColor=A855F7"
+  }
+]
